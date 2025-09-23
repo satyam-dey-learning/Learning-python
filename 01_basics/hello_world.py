@@ -1,6 +1,6 @@
 print("Hello World")
 
-def chai(n):
+def show(n):
     print(n)
     
-chai(6)
+show(6)
